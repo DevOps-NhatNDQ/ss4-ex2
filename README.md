@@ -1,1 +1,1 @@
-this is content of README in main branch from origin
+"Nội dung được cập nhật trực tiếp trên nhánh main"
